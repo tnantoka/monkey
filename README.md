@@ -13,6 +13,12 @@ $ docker compose exec app bash
 $ go fmt ./...
 ```
 
+## REPL
+
+```
+$ go run main.go
+```
+
 ## test
 
 ```
